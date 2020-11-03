@@ -1,0 +1,14 @@
+MASS 1 	H 1.00800 H ! polar H
+MASS 20 C 12.01100 C ! carbonyl C, peptide backbone
+MASS 50 N 14.00700 N ! proline N
+MASS 70 O 15.99900 O ! carbonyl oxygen
+MASS 81 S 32.06000 S ! sulphur
+MASS 190 SOD 22.989770 NA ! Sodium Ion
+MASS 191 MG 24.305000 MG ! Magnesium Ion
+MASS 192 POT 39.102000 K  ! Potassium Ion
+MASS 193 CES 132.900000 CS ! Cesium Ion
+MASS 94  CAL 40.080000 CA ! Calcium Ion
+MASS 195 CL 35.450000 CL ! Chloride Ion
+MASS 182 P 30.974000 P ! phosphorus
+MASS 181 F 18.998400 F ! Aromatic fluorine
+MASS 398 BR  79.90400  BR  ! Bromium
